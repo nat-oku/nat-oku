@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nat-oku (Natalia Bochenek)
+- 👋 Hi, I’m @nat-oku - Natalia Okutansoy (former Bochenek)
 - 👀 I’m interested in surfing, UX design and making web users happy
 - 🌱 I’m currently learning Symfony
 - 💞️ I’m looking to collaborate on web projects in Vienna
